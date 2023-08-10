@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/colorectal-cancer-malig---primary.py
+inputModule3:
+  class: File
+  path: python/hepatic-colorectal-cancer---primary.py
+inputModule4:
+  class: File
+  path: python/colorectal-cancer-transverse---primary.py
+inputModule5:
+  class: File
+  path: python/colorectal-cancer-ascending---primary.py
+inputModule6:
+  class: File
+  path: python/sigmoid-colorectal-cancer---primary.py
+inputModule7:
+  class: File
+  path: python/colorectal-cancer-caecum---primary.py
+inputModule8:
+  class: File
+  path: python/splenic-colorectal-cancer---primary.py
+inputModule9:
+  class: File
+  path: python/colorectal-cancer-nonpolyposis---primary.py
+inputModule10:
+  class: File
+  path: python/colorectal-cancer-colon---primary.py
+inputModule11:
+  class: File
+  path: python/colorectal-cancer-rectum---primary.py
+inputModule12:
+  class: File
+  path: python/colorectal-cancer-carcinoma---primary.py
+inputModule13:
+  class: File
+  path: python/colorectal-cancer---primary.py
+inputModule14:
+  class: File
+  path: python/large-colorectal-cancer---primary.py
+inputModule15:
+  class: File
+  path: python/colorectal-cancer-stomach---primary.py
+inputModule16:
+  class: File
+  path: python/colorectal-cancer-behaviour---primary.py
+inputModule17:
+  class: File
+  path: python/other-colorectal-cancer---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
